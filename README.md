@@ -4,7 +4,7 @@ Code and datasets for paper "Analyzing LLMs' Knowledge Boundary Cognition Across
 We are updating all code and resources in the next few days.
 
 Dataset links:
-[FreshQA-multilingual](https://huggingface.co/datasets/SeaLLMs/FreshQA-multilingual); FreshQA-multilingual-augmented; True-False-multilingual; SeaRefuse
+[FreshQA-multilingual](https://huggingface.co/datasets/SeaLLMs/FreshQA-multilingual); FreshQA-multilingual-augmented; [True-False-multilingual](https://huggingface.co/datasets/SeaLLMs/TrueFalse-Statements-multilingual); SeaRefuse
 
 Code for linear probe, and using mean-shifting \& linear projection to align language subspaces.
 ```

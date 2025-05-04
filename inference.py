@@ -21,7 +21,7 @@ def parse_args():
         help="Path or name of the model.",
     )
     parser.add_argument(
-        "--data_path",
+        "--dataset_name",
         type=str,
         default="SeaLLMs/FreshQA-multilingual",
         help="Path to the dataset.",
@@ -153,7 +153,7 @@ def subspace_transformation(
 def main():
     args = parse_args()
 
-    dataset = load_dataset(args.data_path)["test"]
+    dataset = load_dataset(args.dataset_name)["test"]
     output_dir = os.path.dirname(args.output_path)
     if output_dir and not os.path.exists(output_dir):
         os.makedirs(output_dir, exist_ok=True)
