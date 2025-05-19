@@ -1,7 +1,7 @@
 # LLM-Multilingual-Knowledge-Boundaries
-Code and datasets for paper "Analyzing LLMs' Knowledge Boundary Cognition Across Languages Through the Lens of Internal Representations"
+Code and datasets for paper "Analyzing LLMs' Knowledge Boundary Cognition Across Languages Through the Lens of Internal Representations" to appear at ACL 2025.
 
-We are updating all code and resources in the next few days.
+We are updating all code and resources.
 
 Dataset links:
 [FreshQA-multilingual](https://huggingface.co/datasets/SeaLLMs/FreshQA-multilingual); FreshQA-multilingual-augmented; [True-False-multilingual](https://huggingface.co/datasets/SeaLLMs/TrueFalse-Statements-multilingual); SeaRefuse
