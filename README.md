@@ -14,8 +14,11 @@
 
 <div>
     <em><sup>1</sup>DAMO Academy, Alibaba Group, <sup>2</sup>Durham University</em>&emsp;
-    <em><sup>#</sup>Corresponding Authors</em>
+    
 </div>
+</div>
+    <em><sup>#</sup>Corresponding Authors</em>
+<div>
 
 <div align="center">
   <a href="https://arxiv.org/pdf/2504.13816">
