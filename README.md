@@ -18,10 +18,10 @@
     <em><sup>#</sup>Corresponding Authors</em>
 
 <div align="center">
-  <a href="https://arxiv.org/pdf/2504.13816">
+  <a href="https://arxiv.org/pdf/2504.13816" target="_blank">
     <img src="https://img.shields.io/badge/Paper-arXiv-red">
   </a>
-  <a href="https://huggingface.co/collections/SeaLLMs/evaluation-suite-for-hallucination-of-multilingual-llms-6842674a542c9011f1bfbefb">
+  <a href="https://huggingface.co/collections/SeaLLMs/evaluation-suite-for-hallucination-of-multilingual-llms-6842674a542c9011f1bfbefb" target="_blank">
     <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Collections-blue">
   </a>
 </div>
