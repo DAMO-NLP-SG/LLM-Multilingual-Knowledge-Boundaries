@@ -45,7 +45,7 @@ Our empirical studies reveal three key findings: 1) LLMs' perceptions of knowled
 
 Given the absence of standard testbeds for cross-lingual knowledge boundary analysis, we construct a multilingual evaluation suite comprising three representative types of knowledge boundary data.
 
-<div align='left'><img src="./assets/knowledge_boundary_intro.png"  alt="NAME" width="45%"/></div>
+<div align='center'><img src="./assets/knowledge_boundary_intro.png"  alt="NAME" width="45%"/></div>
 
 <!--We are updating all code and resources.-->
 
