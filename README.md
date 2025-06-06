@@ -7,8 +7,8 @@
     <a target='_blank'>Hou Pong Chan<sup>1,#</sup>,</a>&emsp;
     <a target='_blank'>Hao Zhang<sup>1,#</sup>,</a>&emsp;
     <a target='_blank'>Mahani Aljunied<sup>1</sup>,</a>&emsp; <br>
-    <a target='_blank'>Lidong Bing<sup>1</sup></a>&emsp;
-    <a target='_blank'>Noura Al Moubayed<sup>2</sup></a>&emsp;
+    <a target='_blank'>Lidong Bing<sup>1</sup>,</a>&emsp;
+    <a target='_blank'>Noura Al Moubayed<sup>2</sup>,</a>&emsp;
     <a target='_blank'>Yu Rong<sup>1</sup></a>&emsp;
 </div>
 
