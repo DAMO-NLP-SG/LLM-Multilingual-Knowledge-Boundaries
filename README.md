@@ -67,13 +67,29 @@ python inference.py \
 
 ## Citation
 ```
-@inproceedings{xiao2025analyzingllmsknowledgeboundary,
-      title={Analyzing LLMs' Knowledge Boundary Cognition Across Languages Through the Lens of Internal Representations}, 
-      author={Chenghao Xiao and Hou Pong Chan and Hao Zhang and Mahani Aljunied and Lidong Bing and Noura Al Moubayed and Yu Rong},
-    booktitle = "Proceedings of the Annual Meeting of the Association for Computational Linguistics ({ACL})",
-    month = {July},
-    year = "2025",
-    url={https://arxiv.org/abs/2504.13816}, 
-    publisher = "Association for Computational Linguistics",
+@inproceedings{DBLP:conf/acl/XiaoCZABMR25,
+  author       = {Chenghao Xiao and
+                  Hou Pong Chan and
+                  Hao Zhang and
+                  Mahani Aljunied and
+                  Lidong Bing and
+                  Noura Al Moubayed and
+                  Yu Rong},
+  editor       = {Wanxiang Che and
+                  Joyce Nabende and
+                  Ekaterina Shutova and
+                  Mohammad Taher Pilehvar},
+  title        = {Analyzing LLMs' Knowledge Boundary Cognition Across Languages Through
+                  the Lens of Internal Representations},
+  booktitle    = {Proceedings of the 63rd Annual Meeting of the Association for Computational
+                  Linguistics (Volume 1: Long Papers), {ACL} 2025, Vienna, Austria,
+                  July 27 - August 1, 2025},
+  pages        = {24099--24115},
+  publisher    = {Association for Computational Linguistics},
+  year         = {2025},
+  url          = {https://aclanthology.org/2025.acl-long.1174/},
+  timestamp    = {Wed, 24 Sep 2025 15:22:07 +0200},
+  biburl       = {https://dblp.org/rec/conf/acl/XiaoCZABMR25.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 ```
